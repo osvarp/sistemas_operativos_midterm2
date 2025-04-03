@@ -1,0 +1,8 @@
+# el primer test del excel
+# mytest01.txt
+# tag   ;  BT   ; AT    ;   Q   ; Pr(no la uso)
+
+A	;6	;6	;1	;-1
+B	;8	;10	;0	;-1
+C	;4	;1	;2	;-1
+D	;11	;0	;2	;-1
